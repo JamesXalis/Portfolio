@@ -1,0 +1,35 @@
+body {
+    display: flex;
+    flex-direction: column;
+
+}
+
+header {
+    padding: 30px;
+    background: blue;
+}
+nav {
+    display: flex;
+    background-color: bisque;
+}
+
+.project{
+    border-style: solid;
+    padding: 10px;
+    flex: 0 0 300px;
+    background-color: blueviolet;
+    flex: auto;
+}
+
+.work{
+    background-color: aqua;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+footer {
+    padding: 30px;
+    text-align: end;
+    background: blue;
+}
