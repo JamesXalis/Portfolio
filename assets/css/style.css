@@ -57,14 +57,14 @@ main {
     background-color:lightblue;
 }
 
-/* top half of the main portion of the code with parachute background pic*/
+
 #top-section {
     width: 100%;
     height: 850px;
     display: flex;
     justify-content: space-between;
     align-items: center;
-    background-image: url("../Images/Background4.jpg");
+    background-image: url("../images/artistic_sunrise_4k_blue_mountains.jpg");
     background-size: cover;
     background-position: center;
 }
@@ -160,7 +160,7 @@ main {
 
 /* assignment 1 has unique properties since it is bigger than the rest of the works */
 #assignment1 {
-    background-image: url("../Images/Horiseon.PNG");
+    background-image: url("../");
     min-width: 96%;
     min-height: 600px;
     padding: 20px 15px 0px;
@@ -171,27 +171,27 @@ main {
 }
 
 #assignment2 {
-    background-image: url("../Images/Phoenix-Background2.jpg");
+    background-image: url("../images/amazing_desert_hd_cool_aesthetic.jpg");
     }
 
 #assignment3 {
-    background-image: url("../Images/Phoenix-Background3.jpg");
+    background-image: url("../images/style.jpeg");
     }
 
 #assignment4 {
-    background-image: url("../Images/Phoenix-Background4.jpg");
+    background-image: url("../images/explorer_of_the_lake.jpg");
     }
 
 #assignment5 {
-    background-image: url("../Images/Background1.jpg");
+    background-image: url("../images/tic_sunset_hills.jpg");
     }
 
 #assignment6 {
-    background-image: url("../Images/Background\ 2.jpg");
+    background-image: url("../images/artistic_sunrise_4k_blue_mountains.jpg");
     }
 
 #assignment7 {
-    background-image: url("../Images/Background\ 3.jpg");
+    background-image: url("../images/explorer_of_the_lake.jpg");
 }
 
 /*class properties applied to all works*/
